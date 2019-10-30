@@ -1,0 +1,29 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "init": "^0.1.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hesamZandian/weather-app.git"
+  },
+  "author": "Hesam Zandian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hesamZandian/weather-app/issues"
+  },
+  "homepage": "https://github.com/hesamZandian/weather-app#readme"
+}
